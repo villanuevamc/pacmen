@@ -1,3 +1,4 @@
+<img src="images/gameplay.png">
 # PacMen
 This PacMen exercise contains code for generating multiple pac-men that bounce around the screen. It sets up two buttons: one that adds PacMen to the screen and another that starts the game so they start bouncing around on the screen at random velocities. The project repo also contains different PacMan images representing a PacMan facing different directions and/or with an open or closed mouth.
 
